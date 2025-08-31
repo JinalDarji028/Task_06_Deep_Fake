@@ -1,0 +1,28 @@
+segments:
+  - speaker: interviewer
+    voice: Alex
+    text: "We’re outside the Dome talking Syracuse men’s lacrosse 2013—what defined that season for you?"
+  - speaker: guest
+    voice: Samantha
+    text: "A strong run into the title game built on efficient offense and key possessions, though turnovers hurt late."
+  - speaker: interviewer
+    voice: Alex
+    text: "Which single metric worried you most?"
+  - speaker: guest
+    voice: Samantha
+    text: "Clearing under pressure; opponents forced extra possessions and our late-game shot quality dipped."
+  - speaker: interviewer
+    voice: Alex
+    text: "If you were coaching, what’s the first change?"
+  - speaker: guest
+    voice: Samantha
+    text: "More structured man-up sets, earlier middie rotations to keep legs fresh, and sharper ground-ball work."
+  - speaker: interviewer
+    voice: Alex
+    text: "What’s a realistic outlook next season?"
+  - speaker: guest
+    voice: Samantha
+    text: "With better clears and possession discipline, a top-3 finish and another deep postseason run are realistic."
+  - speaker: interviewer
+    voice: Alex
+    text: "That’s our quick hit from campus—back to you!"
